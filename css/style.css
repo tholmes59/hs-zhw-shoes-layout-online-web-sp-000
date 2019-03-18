@@ -135,16 +135,15 @@ iframe {
   height: 415px;
 }
 
-
-.col-2 {
-  float: left;
-  width: 32%;
-}
-
 .col-1 {
   float: left;
   width: 66%;
   background: #ccc;
+}
+
+.col-2 {
+  float: left;
+  width: 32%;
 }
 
 /********** Header **********/
