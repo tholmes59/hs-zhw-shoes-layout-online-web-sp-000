@@ -50,3 +50,7 @@
     height: 0;
     line-height: 0;
   }
+  
+  [class*="col-"]:first-child {
+    margin-left: 0;
+  }
