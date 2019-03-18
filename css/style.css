@@ -289,7 +289,9 @@ section a {
 }
 
 #border-right {
-  
+  float: left;
+  width: 32%;
+  background: #ccc;
 }
 
 /********** Footer **********/
