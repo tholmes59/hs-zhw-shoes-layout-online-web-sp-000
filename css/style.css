@@ -288,7 +288,7 @@ section a {
   text-decoration: underline;
 }
 
-#border-right {
+.border-right {
   float: left;
   width: 32%;
   background: #ccc;
