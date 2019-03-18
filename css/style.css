@@ -135,6 +135,12 @@ iframe {
   height: 415px;
 }
 
+.col-2 {
+  float: left;
+  width: 32%;
+  background: #ccc;
+}
+
 /********** Header **********/
 
 /********** Nav Bar **********/
