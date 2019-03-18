@@ -37,12 +37,12 @@
   margin-left: 2%;
 }
 
-.feature_row {
+.feature_rows {
     clear: both;
     margin-bottom: 2%;
   }
 
-  .row:after {
+  .feature_rows:after {
     content: ".";
     display: block;
     clear: both;
