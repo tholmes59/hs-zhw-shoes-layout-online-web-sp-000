@@ -139,6 +139,7 @@ iframe {
   float: left;
   width: 31%;
   background: #ccc;
+  box-shadow: 0 3px 10px #333;
 }
 
 /********** Header **********/
