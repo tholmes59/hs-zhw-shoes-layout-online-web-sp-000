@@ -27,16 +27,21 @@
 
 .col-1 {
   width: 66%;
-  float: left;
-  margin-left: 2%;
 }
 
 .col-2 {
   width: 32%;
-  float: left;
-  margin-left: 2%;
 }
 
+ [class*="col-"] {
+    float: left;
+    margin-left: 2%;
+  }
+  
+  [class*="col-"]:first-child {
+    margin-left: 0;
+  }
+  
 .feature_rows {
     clear: both;
     margin-bottom: 2%;
@@ -51,6 +56,4 @@
     line-height: 0;
   }
   
-  [class*="col-"]:first-child {
-    margin-left: 0;
-  }
+  
