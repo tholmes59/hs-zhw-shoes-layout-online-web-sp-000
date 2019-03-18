@@ -135,13 +135,13 @@ iframe {
   height: 415px;
 }
 
+
 .col-2 {
   float: left;
-  width: 31%;
-  box-shadow: 0 3px 10px #333;
+  width: 32%;
 }
 
-.col-3 {
+.col-1 {
   float: left;
   width: 66%;
   background: #ccc;
@@ -301,10 +301,7 @@ section a {
   text-decoration: underline;
 }
 
-.col-1 {
-  float: left;
-  width: 32%;
-}
+
 
 /********** Footer **********/
 
